@@ -1,4 +1,4 @@
-# Main Branch - Data Extraction and Processing Notebook
+# Data Extraction and Processing Notebook
 
 ## Overview
 This repository contains a Jupyter Notebook aimed at automating data extraction and processing tasks. The primary focus is on extracting meaningful information from images and managing this data for further use. The notebook integrates multiple libraries and implements custom logic to ensure flexibility and scalability.
@@ -41,8 +41,4 @@ The notebook employs the following libraries:
 - `requests`: For making HTTP API calls.
 - `yaml`: To read and write YAML configuration files.
 
-## Instructions
-1. Clone this repository to your local machine:
-   ```bash
-   git clone <repository_url>
 
